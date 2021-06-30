@@ -2,7 +2,7 @@
  * by Brendan Aguiar 
  * Version 0.1
  * Due Manual: tinyurl.com/55vn5pzb
- * 
+ * Description: This program uses Arduino Due register assignments for PIO output for an LED.
  * Pins in use:  Description:
  * D13           LED output (PB27)
  */
